@@ -23,7 +23,7 @@ export function signIn() {
                         </div>
                     </div>
                     <div class="field">
-                        <button type="submit" class="button is-primary is-fullwidth">Iniciar Sesión</button>
+                        <button type="submit" class="button is-primary is-fullwidth"><a href="/client/pages/home.html">Iniciar Sesión</a></button>
                     </div>
                     <p class="has-text-centered">
                         ¿No tienes cuenta? <a href="#register-form" id="toggle-to-register">Regístrarse</a>

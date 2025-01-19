@@ -1,4 +1,4 @@
-import { signIn,signUp } from './components/auth.js';
+import { signIn,signUp } from '../components/auth.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     render();
